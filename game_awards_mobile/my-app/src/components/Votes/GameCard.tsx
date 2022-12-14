@@ -29,7 +29,7 @@ export function GameCard(props: gameInterface | any){
                 <Button 
                     onPress={() => sendingVote(props.id)}
                     title='Vote'
-                    color='#9AC33C'
+                    color='#950FED'
                 />
             </View>
         </View>

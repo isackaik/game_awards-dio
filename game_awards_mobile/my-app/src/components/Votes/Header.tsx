@@ -21,7 +21,7 @@ export function Header(){
 
 const styles = StyleSheet.create({
     header:{
-        backgroundColor: '#65DB6B',
+        backgroundColor: '#950FED',
         borderRadius: 8,
         padding: 10,
         paddingLeft: 50,
